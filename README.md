@@ -1,1 +1,1 @@
-# trex-game
+# trex_images
